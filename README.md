@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sanskar Sehgal ! </h1>
+<h1 align="center">Hey, I'm Sanskar Sehgal </h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -8,11 +8,11 @@
 
 👨‍💻 Checkout my [**LeetCode**](https://leetcode.com/sans_sehgal/) Profile.
  
-:rocket: I have been a part of the[**Centre for Artificial Intelligence and Robotics, DRDO**](drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair) as a Reseach Fellow where I developed a state-of-the-art information retrieval and ranking system. [**Information Retrieval**](https://github.com/sans-sehgal/Information-Retrieval)
+:rocket: I have been a part of the [**Centre for Artificial Intelligence and Robotics, DRDO**](drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair) as a Reseach Fellow where I developed a state-of-the-art information retrieval and ranking system. Check out the repo [**Information Retrieval**](https://github.com/sans-sehgal/Information-Retrieval).
 
-💻 Worked as a Research Intern at the Indian Institute of Technology, Bombay on project [**Udaan**](https://www.udaanproject.org/) and helped            underprivligged students acceess educational material in native Indian language. Check out the tool we built [**OpenOCR Correct**](https://github.com/sans-  sehgal/OpenOCR_Correct)
+💻 Worked as a Research Intern at the Indian Institute of Technology, Bombay on project [**Udaan**](https://www.udaanproject.org/) and helped            underprivligged students acceess educational material in native Indian language. Check out the tool we built [**OpenOCR Correct**](https://github.com/sans-sehgal/OpenOCR_Correct).
 
-✍🏻 I enjoy writing technical blogs on [**Medium.com**](https://medium.com/@sanskarsehgal).
+✍🏻 I enjoy writing technical blogs on [**Medium**](https://medium.com/@sanskarsehgal).
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -30,7 +30,7 @@
   ![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)
 
 
-## 🤝 &nbsp;Connect Me !!
+## 🤝 &nbsp;Connect With Me
 
 <p align="center">
 <a href="https://github.com/sans-sehgal" target="_blank">
