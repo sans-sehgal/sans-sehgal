@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en" class="sr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png" />
+
+    <title>Sanskar Sehgal | Developer</title>
+    <meta name="keywords" content="[username], [name], skill" />
+    <meta name="description" content="Sanskar Sehgal | Developer" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="styles.scss" />
+    <script
+      defer
+      src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"
+    ></script>
+
+    <!-- Todo: remove the below script once you finish your portfolio -->
+    <!-- <script async defer src="https://buttons.github.io/buttons.js"></script> -->
+  </head>
+
+  <!-- Todo: read the following HTML Todos to create your stunning portfolio website -->
+  <body>
+    
+  
+    
+    <div id="top"></div>
+    <nav class="navbar">
+      <div class="container container-og">
+        <!-- <a class="navbar-logo" href="#"></a> -->
+        <ul class="navbar-menu">
+          <li><a href="#hero">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav> 
+    <!-- **** Hero Section **** -->
+    <section id="hero" class="jumbotron">
+    
+      
+      <div class="container container-og">
+        <h1 class="hero-title load-hidden">
+          Hi, my name is <span class="text-color-main">Sanskar Sehgal!</span>
+          <br />
+          I am a <span id="element" class = "blue-color"></span>
+          <script>
+            var typed = new Typed('#element', {
+              strings: ['Software Developer', 'Full-Stack Web Developer', 'Machine Learning Enthusiast', 'DevOps Engineer', 'Data Engineer', 'Student'],
+              typeSpeed: 50,
+              loop:true
+            });
+          </script>
+        </h1>
+        <img
+        alt="Project Image"
+        class="img-fluid"
+        src="assets/3yZV.gif"
+        id = "gif-image"
+      />
+      </div>
+    </section>
+
+    <!-- **** About Section **** -->
+    <section id="about">
+      <div class="container">
+        <h2 class="section-title load-hidden">About me</h2>
+        <div class="row about-wrapper">
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__image load-hidden">
+              <img
+                alt="Profile Image"
+                class="img-fluid rounded shadow-lg img-enhance"
+                height="auto"
+                width="300px"
+                src="assets/profile.jpg"
+                alt="Profile Image"
+              />
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__info load-hidden">
+              <p class="about-wrapper__info-text", style="text-align: justify;">
+                Hello! I'm Sanskar. I am currently a Grad Student at <span class="blue-color"> <a href="https://www.stonybrook.edu/" target="_blank">SUNY Stony Brook </a> </span> majoring in Computer Science . 
+                When I'm not writing elegant lines of code, you can find me strategizing epic chess moves, swinging cricket bats, or travelling solo across the world. 
+                I believe in embracing diverse passions to fuel creativity.
+                From designing time-saving APIs to imporving GPS security, I've tackled a wide-range of tech challenges. 
+                So, if you're looking for a software developer who can solve problems and have fun along the way, I'm your guy.
+                Let's create something extraordinary together and share a laugh or two!
+              </p>
+              <p class="about-wrapper__info-text">
+              </p>
+              <span class="d-flex mt-3">
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--resume"
+                  href="assets/resume.pdf"
+                >
+                  View Resume
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /END About Section -->
+
+    <!-- **** Projects Section **** -->
+    <section id="projects">
+      <div class="container">
+        <div class="project-wrapper">
+          <h2 class="section-title dark-blue-text">Projects</h2>
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Covid Substance Abuse and Resource Prediction</h3>
+                <div>
+                  <p class="mb-4" style="text-align: justify;">
+                    In the exciting project "Covid Substance Abuse and Resource Prediction," I delved into the depths of data to uncover insights during the challenging times of the pandemic. 
+                    By mining Reddit data, I explored the alarming rise in substance abuse risk during Covid-19. Leveraging techniques such as time series analysis, 
+                    I also developed a forecasting model to predict hospital bed and staffing deficits with a one-week lead time, empowering healthcare preparedness in the face of the pandemic. 
+                    With Python, PySpark, PyTorch, and Git as my trusty tools, I embarked on this data-driven journey to make a positive impact on public health.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://github.com/sans-sehgal/Covid-19-Substance-Abuse-and-Resource-Prediction/blob/main/BDA%20FINAL%20PRESENTATION.pdf"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/sans-sehgal/Covid-19-Substance-Abuse-and-Resource-Prediction"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project.jpg"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Detection of Location Spoofing in Vehicles</h3>
+                <div>
+                  <p class="mb-4" style="text-align: justify;">
+                    Embarking on a mission to fortify GPS security, I took on the exhilarating challenge of detecting vehicles attempting to spoof their location. 
+                    Armed with Python, PyTorch, and Git, I developed a solution to prevent unauthorized manipulation of GPS signals by vehicles equipped with Software Defined Radios. 
+                    Leveraging sensor data and employing the prowess of a multiclass classifier, I achieved an impressive 90% accuracy in predicting the lane and speed of the spoofing vehicle. 
+                    This project was a thrilling dive into the world of networking, where I combined my passion for innovation with my expertise in machine learning to 
+                    safeguard the integrity of location-based systems.
+                  </p>
+                </div>
+                <!-- <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="#!"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="#!"
+                >
+                  Source Code
+                </a> -->
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project2.png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">PySanitize: Secure Pickle Serialization</h3>
+                <div>
+                  <p class="mb-4" style="text-align: justify;">
+                    In my pursuit of creating secure and reliable pickle files, I developed a library called Py Sanitize. 
+                    This library makes the process of Pickle serialization secure by implementing an allowlist-based sanitizer. 
+                    By meticulously filtering and validating inputs, Py Sanitize effectively thwarts potential code injection attacks, ensuring the integrity and safety of pickle files. 
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://github.com/sans-sehgal/keeping-our-pickles-edible/blob/master/final-report/final-report.pdf"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/sans-sehgal/keeping-our-pickles-edible"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <!-- <a rel="noreferrer" href="#!" target="_blank"> -->
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project3.png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+        </div>
+      </div>
+    </section>
+    <!-- /END Projects Section -->
+
+    <!-- **** Contact Section **** -->
+    <section id="contact">
+      <div class="container">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact-wrapper load-hidden">
+          <p class="contact-wrapper__text">Lets Get In Touch</p>
+          <a
+            rel="noreferrer"
+            target="_blank"
+            class="cta-btn cta-btn--resume"
+            href="mailto:sasehgal@cs.stonybrook.edu"
+            >Email Me</a
+          >
+        </div>
+      </div>
+    </section>
+    <!-- /END Contact Section -->
+
+    <!-- **** Footer Section **** -->
+    <footer class="footer navbar-static-bottom">
+      <div class="container">
+        <a rel="noreferrer" href="#top" class="back-to-top">
+          <i class="fa fa-angle-up fa-2x" aria-hidden="true"></i>
+        </a>
+        <div class="social-links">
+          <a rel="noreferrer" href="https://twitter.com/theSanskariShow" target="_blank">
+            <i class="fa fa-twitter fa-inverse"></i>
+          </a>
+          <a rel="noreferrer" href="https://www.linkedin.com/in/sanskar-sehgal/" target="_blank">
+            <i class="fa fa-linkedin fa-inverse"></i>
+          </a>
+          <a rel="noreferrer" href="https://github.com/sans-sehgal" target="_blank">
+            <i class="fa fa-github fa-inverse"></i>
+          </a>
+        </div>
+
+        <hr />
+
+        <p class="footer__text">
+          © Sanskar Sehgal 2023
+        </p>
+
+
+    </div>
+    </footer>
+    <!-- /END Footer Section -->
+
+    <script defer type="module" src="index.js"></script>
+  </body>
+</html>
