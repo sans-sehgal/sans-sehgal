@@ -4,7 +4,7 @@
 
    
    ## :wave: About Me 
-👨‍🎓 Hey! I'm Sanskar, a grduate student at Stony Brook University in New York, United States.  
+👨‍🎓 Hey! I'm Sanskar, a graduate student at Stony Brook University in New York.   
 
 👨‍💻 Checkout my [**LeetCode**](https://leetcode.com/sans_sehgal/) Profile.
 
