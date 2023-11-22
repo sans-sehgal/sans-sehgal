@@ -7,10 +7,12 @@
 👨‍🎓 Hey! I'm Sanskar, a grduate student at Stony Brook University in New York, United States.  
 
 👨‍💻 Checkout my [**LeetCode**](https://leetcode.com/sans_sehgal/) Profile.
- 
+
+ :rocket: Over the summer of '23 I interned at Tech Mahindra, collaborating with the Data and ML teams in Atlanta and Bangalore. Checkout more about my experience on Linkedin.  
+
 :rocket: I have been a part of the [**Centre for Artificial Intelligence and Robotics, DRDO**](drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair) as a Reseach Fellow where I developed a state-of-the-art information retrieval and ranking system. Check out the repo @ [**Information Retrieval**](https://github.com/sans-sehgal/Information-Retrieval).
 
-💻 Worked as a Research Intern at the Indian Institute of Technology, Bombay on project [**Udaan**](https://www.udaanproject.org/) and helped            underprivileged students acceess educational material in native Indian language. Check out the tool we built @ [**OpenOCR Correct**](https://github.com/sans-sehgal/OpenOCR_Correct).
+:rocket: Worked as a Research Intern at the Indian Institute of Technology, Bombay on project [**Udaan**](https://www.udaanproject.org/) and helped            underprivileged students acceess educational material in native Indian language. Check out the tool we built @ [**OpenOCR Correct**](https://github.com/sans-sehgal/OpenOCR_Correct).
 
 ✍🏻 I enjoy writing technical blogs on [**Medium**](https://medium.com/@sanskarsehgal).
 
